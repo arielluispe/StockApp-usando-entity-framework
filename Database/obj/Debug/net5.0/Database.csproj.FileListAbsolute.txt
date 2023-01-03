@@ -1,0 +1,15 @@
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\bin\Debug\net5.0\Database.deps.json
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\bin\Debug\net5.0\Database.runtimeconfig.json
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\bin\Debug\net5.0\Database.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\bin\Debug\net5.0\Database.dll
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\bin\Debug\net5.0\Database.pdb
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.dll
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\refint\Database.dll
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.pdb
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\Database.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Documentos\Curso de youtube de C#\StockApp\Database\obj\Debug\net5.0\ref\Database.dll
